@@ -1,0 +1,21 @@
+body {
+    font-family: sans-serif;
+    display: flex;
+    flex-direction: column;
+}
+
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+ul {
+    list-style-type: none;
+    display: flex;
+    gap: 4px;
+}
+
+a {
+    text-decoration: none;
+}
